@@ -11,14 +11,13 @@
   text-align: center;
     .about__bio-image{
         width: 100%;
-        margin-bottom: 5rem; 
+        margin-bottom: 6rem; 
         h2{
-            font-size: 3rem;
+            font-size: 2rem;
             color: $secondary-color;
         }
         p{
             text-align: center; 
-            font-size: 1.7rem;
             padding: 2rem;
             width: 60%;
             margin: auto;
@@ -28,20 +27,19 @@
 }
 .about{
 flex: 1;
- width: 50%;
- margin: auto;
+ width: 60%;
+ margin: auto; 
     &__container{
-        width: 70;
         margin: auto;
         margin: 2rem auto;
     }
     .about__job{
         margin: 1.5rem;
         background-color: lighten($primary-color,10%);
-        padding: 2rem 3rem;
+        padding: 1rem 2rem;
         border-bottom: 5px solid $secondary-color;
         border-radius: 10px;
-    h2,h3{
+    h4,h3{
         margin: 1rem 0;
         color: $secondary-color;
     }     

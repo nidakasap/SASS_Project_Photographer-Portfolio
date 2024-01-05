@@ -7,18 +7,15 @@
       &__item {
         padding-right: 0.7rem;
       }
-      .nav__link {
-        font-size: 0.9rem;
-      }
     }
     .contact {
       h2 {
-        font-size: 2rem;
+        font-size: .9rem;
         margin-bottom: 1rem;
       }
       &__list {
         gap: 2rem 1.2rem;
-        font-size: 1.2rem;
+        font-size: 1rem;
       }
     }
   }
@@ -31,18 +28,13 @@
       &__item {
         padding-right: 1rem;
       }
-      .nav__link {
-        font-size: 1rem;
-      }
     }
     .contact {
       h2 {
-        font-size: 2.5rem;
         margin-bottom: 1.5rem;
       }
       &__list {
         gap: 2.5rem 2rem;
-        font-size: 1.5rem;
       }
     }
    
@@ -52,9 +44,6 @@
     .nav {
       &__item {
         padding-right: 1.3rem;
-      }
-      .nav__link {
-        font-size: 1.3rem;
       }
     }
     .projects__item {
@@ -67,9 +56,6 @@
     .nav {
       &__item {
         padding-right: 1.5rem;
-      }
-      .nav__link {
-        font-size: 1.5rem;
       }
     }
   

@@ -15,11 +15,13 @@ footer.horizontal{
     justify-content: space-between;
     align-items: flex-end;
     padding: 1rem;
+    font-size: .8rem;
     @extend .link-style;    
 }
 
 footer.vertical{
     display: flex;
+    font-size: .8rem;
     justify-content: space-between;
     align-items: flex-end;
     padding: 1rem;
@@ -41,7 +43,6 @@ footer.vertical{
 footer.middle{    
     flex:1;
     display: flex;
-    font-size: 1.5rem;
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
