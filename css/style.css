@@ -265,13 +265,13 @@ footer.middle {
 
 @media screen and (min-width: 0px) {
   .nav {
-    padding: 0.5rem;
+    padding: 0.2rem;
   }
   .nav__list {
     text-align: center;
   }
   .nav__item {
-    padding-right: 0.7rem;
+    padding-right: 0.2rem;
   }
   .contact h2 {
     font-size: 0.9rem;
@@ -279,7 +279,7 @@ footer.middle {
   }
   .contact__list {
     gap: 2rem 1.2rem;
-    font-size: 1rem;
+    font-size: 0.5rem;
   }
 }
 @media screen and (min-width: 576px) {
