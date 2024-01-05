@@ -1,0 +1,4 @@
+![screencapture-nidakasap-github-io-SASS-Project-Photographer-Portfolio-index-html-2024-01-05-21_39_34](https://github.com/nidakasap/SASS_Project_Photographer-Portfolio/assets/150368632/253d6128-f91d-4423-9972-b97c2e72e1f0)
+![screencapture-nidakasap-github-io-SASS-Project-Photographer-Portfolio-about-html-2024-01-05-21_39_45](https://github.com/nidakasap/SASS_Project_Photographer-Portfolio/assets/150368632/a324c51f-5b52-4c06-99e2-744d1fff0fb0)
+![screencapture-nidakasap-github-io-SASS-Project-Photographer-Portfolio-projects-html-2024-01-05-21_39_53](https://github.com/nidakasap/SASS_Project_Photographer-Portfolio/assets/150368632/d66b9311-33ef-4b61-a0a2-13780e71cebe)
+![screencapture-nidakasap-github-io-SASS-Project-Photographer-Portfolio-contact-html-2024-01-05-21_40_02](https://github.com/nidakasap/SASS_Project_Photographer-Portfolio/assets/150368632/6ce5ca9d-c16b-4f0e-afbf-d2cc948a2255)
