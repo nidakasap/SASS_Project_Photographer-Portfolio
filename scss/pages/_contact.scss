@@ -1,0 +1,41 @@
+.contact-bgImg-container{
+    @include bgImg(100vh,$pathname1);
+    display: flex;
+    flex-direction: column;
+    nav{
+        flex:1
+    }
+}
+
+.contact{
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 3rem;
+    text-align: center;
+    h2{
+        font-size: 3rem;
+        margin-bottom: 3rem;
+        color: $secondary-color;
+    }
+    &__list{
+        display: flex;
+        flex-wrap: wrap;
+        font-size: 1.5rem;
+        align-items: center;
+        justify-content: center;
+        gap: 2rem;        
+    }
+    &__item{        
+        color: $secondary-color;    
+        padding: 2rem;
+        width: 500px;
+        background-color: lighten($primary-color,10%);
+        border-radius: 1rem;
+    }
+    .text-secondary{
+        color: $text-color;
+    }
+}
+
