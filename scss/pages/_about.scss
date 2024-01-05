@@ -1,8 +1,3 @@
-// .body-container{
-//     display: flex;
-//     flex-direction: column;
-
-// }
 .about-bgImg-container{
      @include bgImg(50vh,$pathname1);
      display: flex;
