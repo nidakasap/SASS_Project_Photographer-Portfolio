@@ -10,7 +10,7 @@
 .about-bgImg-container {
   height: 50vh;
   width: 100%;
-  background: linear-gradient(to right, #272727, rgba(39, 39, 39, 0.3)), url("/img/bg-img.jpg");
+  background: linear-gradient(to right, #272727, rgba(39, 39, 39, 0.3)), url("img/bg-img.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -59,7 +59,7 @@
 .contact-bgImg-container {
   height: 100vh;
   width: 100%;
-  background: linear-gradient(to right, #272727, rgba(39, 39, 39, 0.3)), url("/img/bg-img.jpg");
+  background: linear-gradient(to right, #272727, rgba(39, 39, 39, 0.3)), url("img/bg-img.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -104,7 +104,7 @@
 .home-bgImage-container {
   height: 100vh;
   width: 100%;
-  background: linear-gradient(to right, #272727, rgba(39, 39, 39, 0.3)), url("/img/bg-img.jpg");
+  background: linear-gradient(to right, #272727, rgba(39, 39, 39, 0.3)), url("img/bg-img.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -144,7 +144,7 @@
 .project-bgImg-container {
   height: 40vh;
   width: 100%;
-  background: linear-gradient(to right, #272727, rgba(39, 39, 39, 0.3)), url("/img/bg-img.jpg");
+  background: linear-gradient(to right, #272727, rgba(39, 39, 39, 0.3)), url("img/bg-img.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
